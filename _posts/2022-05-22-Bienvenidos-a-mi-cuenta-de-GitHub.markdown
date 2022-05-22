@@ -3,7 +3,7 @@ layout: post
 title:  Bienvenidos a mi cuenta de GitHub
 date:   2022-05-22 18:20:20 +0300
 description: Este es el post nuevo que he creado
-img: post-1.jpg # Add image post (optional)
+img: goku.jpg # Add image post (optional)
 tags: [Blog, Sunset]
 author: # Add name author (optional)
 ---
